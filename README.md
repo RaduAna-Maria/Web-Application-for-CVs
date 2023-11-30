@@ -9,7 +9,7 @@ The Resume Web App is a simple web application that allows users to create, sear
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Future improvements](#futureimprovements)
+- [Future improvements](#future_improvements)
 - [License](#license)
 
 ## Prerequisites
